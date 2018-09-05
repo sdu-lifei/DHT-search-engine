@@ -30,3 +30,10 @@ sudo mkswap /home/swap
 sudo swapon /home/swap
 
 4. 果然后面就成功了.
+
+
+
+目前网站已经搭建完成, www.91pph.com
+大家可以用来搜索自己想要的资源, 如电影, 音乐, 教程, 电子书等等.
+
+search whatever you want, just try it!
